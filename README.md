@@ -2,6 +2,8 @@
 <h3 align="center">A frontend developer from Russia</h3>
 
 <h3 align="left">Connect with me:</h3>
+<h2>Discord: DericcoM#4587</h2>
+<h2>Telegram: https://t.me/Dericcom57</h2>
 <p align="left">
 </p>
 
