@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <h2>Discord: DericcoM#4587</h2>
-<h2>Telegram: @Dericcom57</h2>
+<h2>Telegram: @Dericcom</h2>
 <p align="left">
 </p>
 
